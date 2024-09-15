@@ -1,0 +1,8 @@
+{
+    "server" :"204.44.86.191" ,
+    "server_port" :18388,
+    "local_port" :1081,
+    "password" : "asdddy09i" ,
+    "timeout" :600,
+    "method" : "aes-128-gcm"
+}
